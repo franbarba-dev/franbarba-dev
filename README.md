@@ -1,6 +1,7 @@
 # ✨ Francisco Barba – Desarrollador Web & Backend Junior
 
-¡Hola! Soy Francisco, desarrollador web en formación y estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). Apasionado por el backend y la creación de soluciones web funcionales, seguras y modernas.
+¡Hola! Soy Francisco, desarrollador web en formación y estudiante de 2º de Desarrollo de Aplicaciones Web (DAW). 
+Apasionado por el backend y la creación de soluciones web funcionales, seguras y modernas.
 
 ---
 
