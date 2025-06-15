@@ -69,10 +69,16 @@ Busco formar parte de un equipo donde pueda aportar mi energía, seguir aprendie
 ¡Estoy abierto a colaborar en proyectos, participar en prácticas o simplemente charlar sobre desarrollo web!  
 No dudes en contactarme:
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/tu-perfil-linkedin)
-- 📧 **Correo:** 3cafran@gmail.com
-- 💻 **GitHub:** [**franbarba-dev**](https://github.com/franbarba-dev)
-- 📱 **WhatsApp:** [+34 633 331 959](https://wa.me/34633331959)
+## 🤝 **Conectemos**
+
+¡Estoy abierto a colaborar en proyectos, participar en prácticas o simplemente charlar sobre desarrollo web!  
+No dudes en contactarme:
+
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [**Mi perfil**](https://www.linkedin.com/in/tu-perfil-linkedin)  
+- ![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) **3cafran@gmail.com**  
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [**franbarba-dev**](https://github.com/franbarba-dev)  
+- ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) [+34 633 331 959](https://wa.me/34633331959)
+
 ---
 
 > 🧠 *"El mejor código no es el más complejo, sino el que cualquiera puede entender."* 💡
