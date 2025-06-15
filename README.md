@@ -44,7 +44,7 @@ Mi filosofía es *aprender haciendo*, aplicando buenas prácticas, escribiendo c
 - 🧑‍🎨 Diseño UX/UI accesible y moderno  
 - 🐳 Contenedores con **Docker**  
 - ☁️ Despliegue en la nube *(AWS, GCP, Azure)*  
-- 🧪 Pruebas con **JUnit** y **Mockito**
+- 🧪 Pruebas con **JUnit**
 
 ---
 
@@ -72,7 +72,7 @@ No dudes en contactarme:
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/tu-perfil-linkedin)
 - 📧 **Correo:** 3cafran@gmail.com
 - 💻 **GitHub:** [**franbarba-dev**](https://github.com/franbarba-dev)
-
+- 📱 **WhatsApp:** [+34 633 331 959](https://wa.me/34633331959)
 ---
 
 > 🧠 *"El mejor código no es el más complejo, sino el que cualquiera puede entender."* 💡
