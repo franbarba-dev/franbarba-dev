@@ -25,6 +25,8 @@ Mi filosofía es *aprender haciendo*, aplicando buenas prácticas, escribiendo c
 
 ### 🗄️ **Base de Datos**
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
+
 
 ### 🧰 **Herramientas**
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
