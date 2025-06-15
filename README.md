@@ -58,6 +58,10 @@ Mi filosofía es *aprender haciendo*, aplicando buenas prácticas, escribiendo c
 
 ---
 
+## 🎯 Lo que Busco
+
+Busco formar parte de un equipo donde pueda aportar mi energía, seguir aprendiendo de profesionales experimentados y crecer como desarrollador backend. Me motiva crear productos útiles, seguros y bien diseñados.
+
 ## 🤝 **Conectemos**
 
 ¡Estoy abierto a colaborar en proyectos, participar en prácticas o simplemente charlar sobre desarrollo web!  
