@@ -60,7 +60,7 @@ Mi filosofía es *aprender haciendo*, aplicando buenas prácticas, escribiendo c
 
 ## 🎯 Lo que Busco
 
-Busco formar parte de un equipo donde pueda aportar mi energía, seguir aprendiendo de profesionales experimentados y crecer como desarrollador Full Stack**. Me motiva crear productos útiles, seguros y bien diseñados.
+Busco formar parte de un equipo donde pueda aportar mi energía, seguir aprendiendo de profesionales experimentados y crecer como desarrollador **Full Stack**. Me motiva crear productos útiles, seguros y bien diseñados.
 
 ---
 
