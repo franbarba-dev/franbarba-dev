@@ -64,10 +64,6 @@ Busco formar parte de un equipo donde pueda aportar mi energía, seguir aprendie
 
 ---
 
-## 🤝 **Conectemos**
-
-¡Estoy abierto a colaborar en proyectos, participar en prácticas o simplemente charlar sobre desarrollo web!  
-No dudes en contactarme:
 
 ## 🤝 **Conectemos**
 
