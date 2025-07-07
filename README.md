@@ -5,7 +5,7 @@
 
 ## 🚀 **Sobre Mí**
 
-Soy un apasionado del desarrollo web, con especial interés en el backend. 
+Soy un apasionado del desarrollo web, con especial interés tanto en el fronted como en el backend. 
 Actualmente estudio **2º de DAW** y me especializo en **Java con Spring Boot**.  
 Mi filosofía es *aprender haciendo*, aplicando buenas prácticas, escribiendo código limpio y eficiente.
 
@@ -60,7 +60,7 @@ Mi filosofía es *aprender haciendo*, aplicando buenas prácticas, escribiendo c
 
 ## 🎯 Lo que Busco
 
-Busco formar parte de un equipo donde pueda aportar mi energía, seguir aprendiendo de profesionales experimentados y crecer como desarrollador backend. Me motiva crear productos útiles, seguros y bien diseñados.
+Busco formar parte de un equipo donde pueda aportar mi energía, seguir aprendiendo de profesionales experimentados y crecer como desarrollador Full Stack**. Me motiva crear productos útiles, seguros y bien diseñados.
 
 ---
 
