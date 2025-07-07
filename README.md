@@ -5,7 +5,7 @@
 
 ## 🚀 **Sobre Mí**
 
-Soy un apasionado del desarrollo web, con especial interés tanto en el fronted como en el backend. 
+Soy un apasionado del desarrollo web, con especial interés tanto en el frontend como en el backend. 
 Actualmente estudio **2º de DAW** y me especializo en **Java con Spring Boot**.  
 Mi filosofía es *aprender haciendo*, aplicando buenas prácticas, escribiendo código limpio y eficiente.
 
