@@ -1,5 +1,5 @@
 # ✨ **FRANCISCO BARBA SIGUENZA**  
-### 👨‍💻 *Desarrollador Web & Backend Junior*
+### 👨‍💻 *Desarrollador Web Junior*
 
 ---
 
